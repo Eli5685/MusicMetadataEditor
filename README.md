@@ -34,7 +34,7 @@
 1. Клонируйте репозиторий: 
 
 ```bash
-git clone https://github.com/yourusername/music-metadata-editor.git
+git clone https://github.com/Eli5685/MusicMetadataEditor.git
 ```
 
 2. Установите зависимости:
